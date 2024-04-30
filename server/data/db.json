@@ -1,0 +1,22 @@
+{
+  "ids": {
+    "User": 2,
+    "Movie": 1105408
+  },
+  "models": {
+    "User": {
+      "1": {
+        "username": "myrepublic",
+        "password": "$2a$10$eynddp84t3XL/XeO/VfHz.QM0Z8PnONbfZ//yftseBYrUg3umJnY2"
+      }
+    },
+    "Movie": {
+      "693134": "{\"id\":693134,\"title\":\"Dune: Part Two\",\"poster_path\":\"https://image.tmdb.org/t/p/original//1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg\",\"release_date\":\"2024-02-27\",\"popularity\":1617.39,\"overview\":\"Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.\"}",
+      "823464": "{\"id\":823464,\"title\":\"Godzilla x Kong: The New Empire\",\"poster_path\":\"https://image.tmdb.org/t/p/original//bQ2ywkchIiaKLSEaMrcT6e29f91.jpg\",\"release_date\":\"2024-03-27\",\"popularity\":1898.967,\"overview\":\"Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.\"}",
+      "845111": "{\"id\":845111,\"title\":\"The Three Musketeers: Milady\",\"poster_path\":\"https://image.tmdb.org/t/p/original//rtosxP5sXuoRFPH4sVbMccLIPiV.jpg\",\"release_date\":\"2023-12-13\",\"popularity\":1010.828,\"overview\":\"D'Artagnan, on a quest to rescue the abducted Constance, runs into the mysterious Milady de Winter again. The tension between the Catholics and the Protestants finally escalates, as the king declares war — forcing the now four musketeers into battle. But as the war goes on, they are tested physically, mentally and emotionally.\"}",
+      "934632": "{\"id\":934632,\"title\":\"Rebel Moon — Part Two: The Scargiver\",\"poster_path\":\"https://image.tmdb.org/t/p/original//cxevDYdeFkiixRShbObdwAHBZry.jpg\",\"release_date\":\"2024-04-19\",\"popularity\":1868.352,\"overview\":\"The rebels gear up for battle against the ruthless forces of the Motherworld as unbreakable bonds are forged, heroes emerge — and legends are made.\"}",
+      "1096197": "{\"id\":1096197,\"title\":\"No Way Up\",\"poster_path\":\"https://image.tmdb.org/t/p/original//hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg\",\"release_date\":\"2024-01-18\",\"popularity\":2011.445,\"overview\":\"Characters from different backgrounds are thrown together when the plane they're travelling on crashes into the Pacific Ocean. A nightmare fight for survival ensues with the air supply running out and dangers creeping in from all sides.\"}",
+      "1105407": "{\"id\":1105407,\"title\":\"Damaged\",\"poster_path\":\"https://image.tmdb.org/t/p/original//tMO0YLXgJZBnIAjoTSz26zE33YN.jpg\",\"release_date\":\"2024-04-12\",\"popularity\":931.866,\"overview\":\"A Chicago detective travels to Scotland after an emerging serial killer’s crimes match those that he investigated five years earlier, one of which was the crime scene of his murdered girlfriend.\"}"
+    }
+  }
+}
